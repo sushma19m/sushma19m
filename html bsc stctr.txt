@@ -1,0 +1,14 @@
+<html>
+<head>My Website
+<title>Basic Design </title>
+</head>
+<body>
+<h1> 
+It includes just the structure of a html webpage </h1>
+<frameset cols="25%,50%,25%">
+    <frame src="frame1.html">
+            <frame src="frame2.html">
+                    <frame src="frame3.html">
+</frameset>
+</body>
+</html>
